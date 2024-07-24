@@ -4,7 +4,7 @@ layout: page
 
 # About Us
 
-<img src="teagasclab87.jpg" class="floatpic" width="360" height="360">
+<img src="teagasclab87.jpg" class="floatpic" width="500" height="420">
 
 Here is **Teagasclab87**.
 
