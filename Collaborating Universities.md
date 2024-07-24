@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /Collaborating Universities/index.html
+title: Collaborating Universities
 ---
 
 # Hobbies

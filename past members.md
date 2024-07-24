@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /past members/index.html
+title: Past Members
 ---
 
 ## Chinese Blogs
