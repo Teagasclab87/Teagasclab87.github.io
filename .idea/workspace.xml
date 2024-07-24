@@ -5,8 +5,115 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/18yrs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/19yrs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/20yrs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/21yrs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/22yrs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/24fall.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/IoE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/aaai-24.assets/1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/aaai-24.assets/2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/aaai-24.assets/3_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/aaai-24.assets/4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/aaai-24.assets/image-20240102233256486.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/aaai-24.assets/image-20240103220603425.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/aaai-24.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.assets/attacks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.assets/cambridge-zh.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.assets/cc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.assets/flowchart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.assets/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.assets/rl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.assets/st.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.assets/system.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.assets/table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/cambridge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/modeling.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/star.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/stop.assets/0502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/stop.assets/202208.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/stop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/summer-res.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/team2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/to-do-list.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/to-do-list/diversity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/to-do-list/fly.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/to-do-list/freshman.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/to-do-list/wechat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/IMG_1138.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/github-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/image-20230427100805390.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/image-20230427101010881.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/image-20230427101317954.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/image-20230427104320952.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/image-20230427104405873.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/image-20230427104831706.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/image-20230427110918118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/image-20230427120849054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/jekyll-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.assets/wechat.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/web.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/yrs.assets/2022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/yrs.assets/2023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/yrs.assets/wechat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collaborating Universities/欢迎微信交流.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs.md" beforeDir="false" afterPath="$PROJECT_DIR$/past members.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/18yrs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/19yrs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/20yrs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/21yrs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/22yrs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/24fall.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/IoE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/aaai-24.assets/1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/aaai-24.assets/2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/aaai-24.assets/3_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/aaai-24.assets/4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/aaai-24.assets/image-20240102233256486.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/aaai-24.assets/image-20240103220603425.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/aaai-24.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.assets/attacks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.assets/cambridge-zh.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.assets/cc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.assets/flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.assets/results.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.assets/rl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.assets/st.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.assets/system.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.assets/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/cambridge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/modeling.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/star.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/stop.assets/0502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/stop.assets/202208.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/stop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/summer-res.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/team2023.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/to-do-list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/to-do-list/diversity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/to-do-list/fly.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/to-do-list/freshman.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/to-do-list/wechat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/IMG_1138.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/github-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427100805390.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427101010881.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427101317954.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427104320952.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427104405873.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427104831706.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427110918118.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427120849054.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/jekyll-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.assets/wechat.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/web.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/yrs.assets/2022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/yrs.assets/2023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/yrs.assets/wechat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/欢迎微信交流.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobbies.md" beforeDir="false" afterPath="$PROJECT_DIR$/Collaborating Universities.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,15 +128,18 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2GoDgBPFljLklRmMhEeS4qFDqLp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true"
+  }
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,5 +161,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
