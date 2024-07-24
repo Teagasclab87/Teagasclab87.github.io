@@ -1,12 +1,8 @@
 ---
 layout: page
-permalink: /projects/index.html
-title: Projects
+permalink: /collaborating/index.html
+title: Collaborating
 ---
----
-layout: page
-permalink: /collaboraitng/index.html
-title: Collaboraitng
 > Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
 ## Scholarships
