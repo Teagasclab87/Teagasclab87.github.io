@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Collaborating Universities/index.html
+permalink: /collaborating universities/index.html
 title: Collaborating Universities
 ---
 
